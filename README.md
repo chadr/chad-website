@@ -1,2 +1,2 @@
-# chad's website
- chad's personal website
+# Chad's Website
+ Chad's personal website.
